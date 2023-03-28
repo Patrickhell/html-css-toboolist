@@ -2,9 +2,6 @@
     display: inline;
     vertical-align: middle;
     font-size: 40px;
-    
-    
-    
 }
 
 #logo{
@@ -24,11 +21,11 @@ header{
 
 main{
     
-    margin: 10px 120px 0px 100px;
-    padding: 100px;
+    margin: 10px 120px 0px 110px;
+    padding: 80px;
 }
 #task{
-    background-color: rgb(0, 180, 240);
+    background-color:  #00a4f7;
     width: 80px;
     height: 25px;
     border-radius: 5px;
@@ -40,4 +37,83 @@ main{
     min-height: 25px;
     border-radius: 5px;
     color: lightgray;
+}
+.opzione{
+    font-size: 20px;
+    display: inline;
+    margin-top: 40px;
+
+}
+.spazio-tra-opzioni{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.sottotitolo{
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.colore-blu{
+    background-color: #00a4f7;
+}
+
+
+
+.colore-viola{
+    background-color:#9C72E4;
+   
+}
+.spazio-fra-riga{
+line-height: 35px;
+
+}
+.carattere-speciale-croce{
+    color: lightcoral;   
+}
+
+.carattere-speciale{
+    color: aquamarine; 
+}
+
+.cerchio{
+    font-size: 15px;    
+    width: 30px;
+    height: 30px;
+    border: 2px solid aquamarine;
+    border-radius: 50%;  
+}
+.cerchio-rosso{
+    border: 2px solid red;
+    font-size: 15px;    
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;  
+}
+
+
+.colore-verde{
+    background-color:#63BFA8;
+    
+}
+.colore-arancione{
+    background-color: #F29E33;
+    
+}
+.colore-rosa{
+    background-color:#D863A1 ;
+      
+}
+.colore-verde-chiaro{
+    background-color: #ADC71E;
+    
+}
+.colore-background{
+    font-size: 12px;
+    margin-left: 5px;
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-radius:14px;
+    display: inline-block;
+    text-align: center;  
+    
 }
